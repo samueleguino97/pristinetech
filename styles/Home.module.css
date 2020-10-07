@@ -1,10 +1,10 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
 }
 
 .main {
@@ -45,7 +45,11 @@
 .title a:active {
   text-decoration: underline;
 }
-
+.icon{
+  height: 60vh;
+  margin-top: 24px;
+  object-fit: contain;
+}
 .title {
   margin: 0;
   line-height: 1.15;
