@@ -47,6 +47,7 @@
 }
 .icon{
   height: 60vh;
+  width: 80vw;
   margin-top: 24px;
   object-fit: contain;
 }
